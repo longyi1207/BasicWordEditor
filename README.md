@@ -11,7 +11,6 @@ The supported word processing functionalities include:
 
 In fact, this readme is created via this application. See screenshot: 
 
-```
-![Alt text](https://github.com/longyi1207/bank/blob/main/Capture.png?raw=true "Optional Title")
-```
+![alt text](https://github.com/longyi1207/BasicWordEditor/blob/main/Capture.png?raw=true)
+
 
