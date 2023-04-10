@@ -1,0 +1,10 @@
+D:\LongYi\BasicWordEditor\bin\Debug\BasicWordEditor.exe.config
+D:\LongYi\BasicWordEditor\bin\Debug\BasicWordEditor.exe
+D:\LongYi\BasicWordEditor\bin\Debug\BasicWordEditor.pdb
+D:\LongYi\BasicWordEditor\obj\Debug\BasicWordEditor.csprojAssemblyReference.cache
+D:\LongYi\BasicWordEditor\obj\Debug\BasicWordEditor.Form1.resources
+D:\LongYi\BasicWordEditor\obj\Debug\BasicWordEditor.Properties.Resources.resources
+D:\LongYi\BasicWordEditor\obj\Debug\BasicWordEditor.csproj.GenerateResource.cache
+D:\LongYi\BasicWordEditor\obj\Debug\BasicWordEditor.csproj.CoreCompileInputs.cache
+D:\LongYi\BasicWordEditor\obj\Debug\BasicWordEditor.exe
+D:\LongYi\BasicWordEditor\obj\Debug\BasicWordEditor.pdb
